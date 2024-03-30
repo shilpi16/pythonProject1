@@ -1,0 +1,652 @@
+12/23/2023 06:42:09 PM -root -INFO -**************** Test_002_DDT_Login*************
+12/23/2023 06:42:09 PM -root -INFO -***************** Verify DDT Login test *****************
+12/23/2023 06:42:20 PM -root -INFO -***************Test Case is passed********
+12/23/2023 06:42:27 PM -root -INFO -***************Test Case is Passed ********
+12/23/2023 06:42:34 PM -root -INFO -***************Test Case is Passed ********
+12/23/2023 06:42:41 PM -root -INFO -***************Test Case is Passed ********
+12/23/2023 06:42:41 PM -root -INFO -***********Login DDT is Passed **********
+12/23/2023 06:42:41 PM -root -INFO -**********End of Login DDT Test **************
+12/23/2023 06:42:41 PM -root -INFO -******** Completed Test_002_DDT_Login***********
+12/23/2023 07:53:33 PM -root -INFO -**************** Test_002_DDT_Login*************
+12/23/2023 07:53:33 PM -root -INFO -***************** Verify DDT Login test *****************
+12/23/2023 07:55:08 PM -root -INFO -***************Test Case is passed********
+12/23/2023 07:59:55 PM -root -INFO -***************Test Case is Passed ********
+12/23/2023 08:02:33 PM -root -INFO -***************Test Case is Passed ********
+12/23/2023 08:03:19 PM -root -INFO -***************Test Case is Passed ********
+12/23/2023 08:03:45 PM -root -INFO -***********Login DDT is Passed **********
+12/23/2023 08:03:45 PM -root -INFO -**********End of Login DDT Test **************
+12/23/2023 08:03:45 PM -root -INFO -******** Completed Test_002_DDT_Login***********
+12/23/2023 08:58:23 PM -root -INFO -***************** Verify Login test *****************
+12/23/2023 09:01:36 PM -root -INFO -***************** Verify Login test *****************
+12/23/2023 09:24:04 PM -root -INFO -***************** Verify Login test *****************
+12/23/2023 09:53:00 PM -root -INFO -***************** Verify Login test *****************
+12/23/2023 09:56:52 PM -root -INFO -***************** Verify Login test *****************
+12/23/2023 09:57:03 PM -root -INFO -************ Login test is passed *****************
+01/13/2024 11:04:41 PM -root -INFO -****************Test_003_AddCustomer********************
+01/13/2024 11:04:49 PM -root -INFO -****************Login successful********************
+01/13/2024 11:04:49 PM -root -INFO -***************Starting Add Customer Test**************
+01/13/2024 11:04:56 PM -root -INFO -***************Providing customer info**************
+01/13/2024 11:08:34 PM -root -INFO -****************Test_003_AddCustomer********************
+01/13/2024 11:08:52 PM -root -INFO -****************Login successful********************
+01/13/2024 11:08:52 PM -root -INFO -***************Starting Add Customer Test**************
+01/13/2024 11:09:06 PM -root -INFO -***************Providing customer info**************
+01/13/2024 11:25:38 PM -root -INFO -****************Test_003_AddCustomer********************
+01/13/2024 11:25:51 PM -root -INFO -****************Login successful********************
+01/13/2024 11:25:51 PM -root -INFO -***************Starting Add Customer Test**************
+01/13/2024 11:26:00 PM -root -INFO -***************Providing customer info**************
+01/13/2024 11:33:00 PM -root -INFO -****************Test_003_AddCustomer********************
+01/13/2024 11:33:07 PM -root -INFO -****************Login successful********************
+01/13/2024 11:33:07 PM -root -INFO -***************Starting Add Customer Test**************
+01/13/2024 11:33:15 PM -root -INFO -***************Providing customer info**************
+01/13/2024 11:34:01 PM -root -INFO -****************Test_003_AddCustomer********************
+01/13/2024 11:34:07 PM -root -INFO -****************Login successful********************
+01/13/2024 11:34:07 PM -root -INFO -***************Starting Add Customer Test**************
+01/13/2024 11:34:14 PM -root -INFO -***************Providing customer info**************
+01/13/2024 11:36:54 PM -root -INFO -****************Test_003_AddCustomer********************
+01/13/2024 11:37:02 PM -root -INFO -****************Login successful********************
+01/13/2024 11:37:02 PM -root -INFO -***************Starting Add Customer Test**************
+01/13/2024 11:37:09 PM -root -INFO -***************Providing customer info**************
+01/13/2024 11:40:26 PM -root -INFO -****************Test_003_AddCustomer********************
+01/13/2024 11:40:32 PM -root -INFO -****************Login successful********************
+01/13/2024 11:40:32 PM -root -INFO -***************Starting Add Customer Test**************
+01/13/2024 11:40:38 PM -root -INFO -***************Providing customer info**************
+01/13/2024 11:42:16 PM -root -INFO -****************Test_003_AddCustomer********************
+01/13/2024 11:42:23 PM -root -INFO -****************Login successful********************
+01/13/2024 11:42:23 PM -root -INFO -***************Starting Add Customer Test**************
+01/13/2024 11:42:30 PM -root -INFO -***************Providing customer info**************
+03/09/2024 06:29:24 PM -root -INFO -****************Test_003_AddCustomer********************
+03/09/2024 06:29:32 PM -root -INFO -****************Login successful********************
+03/09/2024 06:29:32 PM -root -INFO -***************Starting Add Customer Test**************
+03/09/2024 06:29:42 PM -root -INFO -***************Providing customer info**************
+03/09/2024 06:37:39 PM -root -INFO -****************Test_003_AddCustomer********************
+03/09/2024 06:37:47 PM -root -INFO -****************Login successful********************
+03/09/2024 06:37:47 PM -root -INFO -***************Starting Add Customer Test**************
+03/09/2024 06:37:55 PM -root -INFO -***************Providing customer info**************
+03/09/2024 06:45:08 PM -root -INFO -****************Test_003_AddCustomer********************
+03/09/2024 06:45:16 PM -root -INFO -****************Login successful********************
+03/09/2024 06:45:16 PM -root -INFO -***************Starting Add Customer Test**************
+03/09/2024 06:45:24 PM -root -INFO -***************Providing customer info**************
+03/09/2024 06:49:11 PM -root -INFO -****************Test_003_AddCustomer********************
+03/09/2024 06:49:17 PM -root -INFO -****************Login successful********************
+03/09/2024 06:49:17 PM -root -INFO -***************Starting Add Customer Test**************
+03/09/2024 06:49:25 PM -root -INFO -***************Providing customer info**************
+03/09/2024 06:59:34 PM -root -INFO -****************Test_003_AddCustomer********************
+03/09/2024 06:59:41 PM -root -INFO -****************Login successful********************
+03/09/2024 06:59:41 PM -root -INFO -***************Starting Add Customer Test**************
+03/09/2024 06:59:47 PM -root -INFO -***************Providing customer info**************
+03/09/2024 07:28:24 PM -root -INFO -****************Test_003_AddCustomer********************
+03/09/2024 07:28:31 PM -root -INFO -****************Login successful********************
+03/09/2024 07:28:31 PM -root -INFO -***************Starting Add Customer Test**************
+03/09/2024 07:28:37 PM -root -INFO -***************Providing customer info**************
+03/09/2024 07:35:44 PM -root -INFO -****************Test_003_AddCustomer********************
+03/09/2024 07:35:49 PM -root -INFO -****************Login successful********************
+03/09/2024 07:35:49 PM -root -INFO -***************Starting Add Customer Test**************
+03/09/2024 07:35:55 PM -root -INFO -***************Providing customer info**************
+03/09/2024 08:15:06 PM -root -INFO -****************Test_003_AddCustomer********************
+03/09/2024 08:15:12 PM -root -INFO -****************Login successful********************
+03/09/2024 08:15:12 PM -root -INFO -***************Starting Add Customer Test**************
+03/09/2024 08:15:18 PM -root -INFO -***************Providing customer info**************
+03/09/2024 08:38:38 PM -root -INFO -****************Test_003_AddCustomer********************
+03/09/2024 08:38:45 PM -root -INFO -****************Login successful********************
+03/09/2024 08:38:45 PM -root -INFO -***************Starting Add Customer Test**************
+03/09/2024 08:38:51 PM -root -INFO -***************Providing customer info**************
+03/09/2024 08:41:44 PM -root -INFO -****************** saving customer info ***************************
+03/09/2024 08:41:48 PM -root -INFO -************* Add customer validation started ***************
+03/09/2024 08:43:50 PM -root -INFO -*********** Add customer Test *************
+03/09/2024 08:43:57 PM -root -INFO -*************Ending Home Page Title Test ***************
+03/09/2024 08:44:40 PM -root -INFO -****************Test_003_AddCustomer********************
+03/09/2024 08:44:47 PM -root -INFO -****************Login successful********************
+03/09/2024 08:44:47 PM -root -INFO -***************Starting Add Customer Test**************
+03/09/2024 08:44:53 PM -root -INFO -***************Providing customer info**************
+03/09/2024 08:45:11 PM -root -INFO -****************** saving customer info ***************************
+03/09/2024 08:45:11 PM -root -INFO -************* Add customer validation started ***************
+03/09/2024 08:45:13 PM -root -INFO -*********** Add customer Test *************
+03/09/2024 08:45:14 PM -root -INFO -*************Ending Home Page Title Test ***************
+03/09/2024 08:45:37 PM -root -INFO -****************Test_003_AddCustomer********************
+03/09/2024 08:45:43 PM -root -INFO -****************Login successful********************
+03/09/2024 08:45:43 PM -root -INFO -***************Starting Add Customer Test**************
+03/09/2024 08:45:50 PM -root -INFO -***************Providing customer info**************
+03/09/2024 08:46:05 PM -root -INFO -****************** saving customer info ***************************
+03/09/2024 08:46:05 PM -root -INFO -************* Add customer validation started ***************
+03/09/2024 08:46:07 PM -root -INFO -*********** Add customer Test *************
+03/09/2024 08:46:08 PM -root -INFO -*************Ending Home Page Title Test ***************
+03/10/2024 06:36:18 PM -root -INFO -****************Test_003_AddCustomer********************
+03/10/2024 06:36:24 PM -root -INFO -****************Login successful********************
+03/10/2024 06:36:24 PM -root -INFO -***************Starting Add Customer Test**************
+03/10/2024 06:36:30 PM -root -INFO -***************Providing customer info**************
+03/10/2024 06:38:34 PM -root -INFO -****************Test_003_AddCustomer********************
+03/10/2024 06:38:39 PM -root -INFO -****************Login successful********************
+03/10/2024 06:38:39 PM -root -INFO -***************Starting Add Customer Test**************
+03/10/2024 06:38:45 PM -root -INFO -***************Providing customer info**************
+03/10/2024 07:06:19 PM -root -INFO -****************Test_003_AddCustomer********************
+03/10/2024 07:06:24 PM -root -INFO -****************Login successful********************
+03/10/2024 07:06:24 PM -root -INFO -***************Starting Add Customer Test**************
+03/10/2024 07:06:30 PM -root -INFO -***************Providing customer info**************
+03/10/2024 07:15:21 PM -root -INFO -****************Test_003_AddCustomer********************
+03/10/2024 07:15:26 PM -root -INFO -****************Login successful********************
+03/10/2024 07:15:26 PM -root -INFO -***************Starting Add Customer Test**************
+03/10/2024 07:15:33 PM -root -INFO -***************Providing customer info**************
+03/10/2024 07:22:05 PM -root -INFO -****************Test_003_AddCustomer********************
+03/10/2024 07:22:10 PM -root -INFO -****************Login successful********************
+03/10/2024 07:22:10 PM -root -INFO -***************Starting Add Customer Test**************
+03/10/2024 07:22:15 PM -root -INFO -***************Providing customer info**************
+03/10/2024 07:25:58 PM -root -INFO -****************Test_003_AddCustomer********************
+03/10/2024 07:26:03 PM -root -INFO -****************Login successful********************
+03/10/2024 07:26:03 PM -root -INFO -***************Starting Add Customer Test**************
+03/10/2024 07:26:09 PM -root -INFO -***************Providing customer info**************
+03/10/2024 07:32:05 PM -root -INFO -****************Test_003_AddCustomer********************
+03/10/2024 07:32:11 PM -root -INFO -****************Login successful********************
+03/10/2024 07:32:11 PM -root -INFO -***************Starting Add Customer Test**************
+03/10/2024 07:32:17 PM -root -INFO -***************Providing customer info**************
+03/10/2024 07:35:04 PM -root -INFO -****************Test_003_AddCustomer********************
+03/10/2024 07:35:10 PM -root -INFO -****************Login successful********************
+03/10/2024 07:35:10 PM -root -INFO -***************Starting Add Customer Test**************
+03/10/2024 07:35:16 PM -root -INFO -***************Providing customer info**************
+03/10/2024 07:38:18 PM -root -INFO -****************Test_003_AddCustomer********************
+03/10/2024 07:38:23 PM -root -INFO -****************Login successful********************
+03/10/2024 07:38:23 PM -root -INFO -***************Starting Add Customer Test**************
+03/10/2024 07:38:28 PM -root -INFO -***************Providing customer info**************
+03/10/2024 07:38:34 PM -root -INFO -****************** saving customer info ***************************
+03/10/2024 07:38:34 PM -root -INFO -************* Add customer validation started ***************
+03/10/2024 07:38:35 PM -root -ERROR -************ Add customer Test Failed *****************
+03/10/2024 07:39:11 PM -root -INFO -****************Test_003_AddCustomer********************
+03/10/2024 07:39:16 PM -root -INFO -****************Login successful********************
+03/10/2024 07:39:16 PM -root -INFO -***************Starting Add Customer Test**************
+03/10/2024 07:39:45 PM -root -INFO -****************Test_003_AddCustomer********************
+03/10/2024 07:39:50 PM -root -INFO -****************Login successful********************
+03/10/2024 07:39:50 PM -root -INFO -***************Starting Add Customer Test**************
+03/10/2024 07:39:56 PM -root -INFO -***************Providing customer info**************
+03/10/2024 07:43:16 PM -root -INFO -****************** saving customer info ***************************
+03/10/2024 07:43:16 PM -root -INFO -************* Add customer validation started ***************
+03/10/2024 07:43:18 PM -root -ERROR -************ Add customer Test Failed *****************
+03/10/2024 07:44:07 PM -root -INFO -****************Test_003_AddCustomer********************
+03/10/2024 07:44:13 PM -root -INFO -****************Login successful********************
+03/10/2024 07:44:13 PM -root -INFO -***************Starting Add Customer Test**************
+03/10/2024 07:44:19 PM -root -INFO -***************Providing customer info**************
+03/10/2024 07:44:46 PM -root -INFO -****************Test_003_AddCustomer********************
+03/10/2024 07:44:52 PM -root -INFO -****************Login successful********************
+03/10/2024 07:44:52 PM -root -INFO -***************Starting Add Customer Test**************
+03/10/2024 07:44:58 PM -root -INFO -***************Providing customer info**************
+03/10/2024 07:45:04 PM -root -INFO -****************** saving customer info ***************************
+03/10/2024 07:45:04 PM -root -INFO -************* Add customer validation started ***************
+03/10/2024 07:45:06 PM -root -INFO -*********** Add customer Test *************
+03/10/2024 07:45:06 PM -root -INFO -*************Ending Home Page Title Test ***************
+03/10/2024 08:22:04 PM -root -INFO -****************Test_003_AddCustomer********************
+03/10/2024 08:22:09 PM -root -INFO -****************Login successful********************
+03/10/2024 08:22:09 PM -root -INFO -***************Starting Add Customer Test**************
+03/10/2024 08:22:15 PM -root -INFO -***************Providing customer info**************
+03/10/2024 08:22:20 PM -root -INFO -****************** saving customer info ***************************
+03/10/2024 08:22:20 PM -root -INFO -************* Add customer validation started ***************
+03/10/2024 08:22:22 PM -root -INFO -*********** Add customer Test *************
+03/10/2024 08:22:22 PM -root -INFO -*************Ending Home Page Title Test ***************
+03/10/2024 08:24:37 PM -root -INFO -****************Test_003_AddCustomer********************
+03/10/2024 08:24:43 PM -root -INFO -****************Login successful********************
+03/10/2024 08:24:43 PM -root -INFO -***************Starting Add Customer Test**************
+03/10/2024 08:24:51 PM -root -INFO -***************Providing customer info**************
+03/10/2024 08:24:57 PM -root -INFO -****************** saving customer info ***************************
+03/10/2024 08:24:57 PM -root -INFO -************* Add customer validation started ***************
+03/10/2024 08:24:59 PM -root -INFO -*********** Add customer Test *************
+03/10/2024 08:24:59 PM -root -INFO -*************Ending Home Page Title Test ***************
+03/16/2024 09:22:44 PM -root -INFO -****************Test_003_AddCustomer********************
+03/16/2024 09:22:50 PM -root -INFO -****************Login successful********************
+03/16/2024 09:22:50 PM -root -INFO -***************Starting Search Customer By Email **********
+03/16/2024 09:22:54 PM -root -INFO -************starting Search Customer By EmailID ***********
+03/16/2024 09:49:11 PM -root -INFO -****************Test_003_AddCustomer********************
+03/16/2024 09:49:17 PM -root -INFO -****************Login successful********************
+03/16/2024 09:49:17 PM -root -INFO -***************Starting Search Customer By Email **********
+03/16/2024 09:49:21 PM -root -INFO -************starting Search Customer By EmailID ***********
+03/16/2024 09:50:02 PM -root -INFO -****************Test_003_AddCustomer********************
+03/16/2024 09:50:09 PM -root -INFO -****************Login successful********************
+03/16/2024 09:50:09 PM -root -INFO -***************Starting Search Customer By Email **********
+03/16/2024 09:50:13 PM -root -INFO -************starting Search Customer By EmailID ***********
+03/17/2024 01:23:34 PM -root -INFO -****************Test_003_AddCustomer********************
+03/17/2024 01:23:45 PM -root -INFO -****************Login successful********************
+03/17/2024 01:23:45 PM -root -INFO -***************Starting Search Customer By Email **********
+03/17/2024 01:23:50 PM -root -INFO -************starting Search Customer By EmailID ***********
+03/17/2024 01:34:30 PM -root -INFO -****************Test_003_AddCustomer********************
+03/17/2024 01:34:38 PM -root -INFO -****************Login successful********************
+03/17/2024 01:34:38 PM -root -INFO -***************Starting Search Customer By Email **********
+03/17/2024 01:34:42 PM -root -INFO -************starting Search Customer By EmailID ***********
+03/17/2024 01:35:43 PM -root -INFO -****************Test_003_AddCustomer********************
+03/17/2024 01:35:50 PM -root -INFO -****************Login successful********************
+03/17/2024 01:35:50 PM -root -INFO -***************Starting Search Customer By Email **********
+03/17/2024 01:35:53 PM -root -INFO -************starting Search Customer By EmailID ***********
+03/17/2024 01:42:48 PM -root -INFO -****************Test_003_AddCustomer********************
+03/17/2024 01:42:56 PM -root -INFO -****************Login successful********************
+03/17/2024 01:42:56 PM -root -INFO -***************Starting Search Customer By Email **********
+03/17/2024 01:43:00 PM -root -INFO -************starting Search Customer By EmailID ***********
+03/17/2024 01:44:49 PM -root -INFO -****************Test_003_AddCustomer********************
+03/17/2024 01:44:57 PM -root -INFO -****************Login successful********************
+03/17/2024 01:44:57 PM -root -INFO -***************Starting Search Customer By Email **********
+03/17/2024 01:45:01 PM -root -INFO -************starting Search Customer By EmailID ***********
+03/17/2024 01:47:10 PM -root -INFO -****************Test_003_AddCustomer********************
+03/17/2024 01:47:15 PM -root -INFO -****************Login successful********************
+03/17/2024 01:47:15 PM -root -INFO -***************Starting Search Customer By Email **********
+03/17/2024 01:47:19 PM -root -INFO -************starting Search Customer By EmailID ***********
+03/17/2024 01:51:51 PM -root -INFO -****************Test_003_AddCustomer********************
+03/17/2024 01:51:57 PM -root -INFO -****************Login successful********************
+03/17/2024 01:51:57 PM -root -INFO -***************Starting Search Customer By Email **********
+03/17/2024 01:52:00 PM -root -INFO -************starting Search Customer By EmailID ***********
+03/17/2024 02:04:28 PM -root -INFO -****************Test_003_AddCustomer********************
+03/17/2024 02:04:34 PM -root -INFO -****************Login successful********************
+03/17/2024 02:04:34 PM -root -INFO -***************Starting Search Customer By Email **********
+03/17/2024 02:04:38 PM -root -INFO -************starting Search Customer By EmailID ***********
+03/17/2024 02:05:55 PM -root -INFO -***************TC_SearchCustomerByEmail_Finished *****************
+03/17/2024 02:06:16 PM -root -INFO -****************Test_003_AddCustomer********************
+03/17/2024 02:06:21 PM -root -INFO -****************Login successful********************
+03/17/2024 02:06:21 PM -root -INFO -***************Starting Search Customer By Email **********
+03/17/2024 02:06:25 PM -root -INFO -************starting Search Customer By EmailID ***********
+03/17/2024 02:06:32 PM -root -INFO -***************TC_SearchCustomerByEmail_Finished *****************
+03/17/2024 02:06:47 PM -root -INFO -****************Test_003_AddCustomer********************
+03/17/2024 02:06:53 PM -root -INFO -****************Login successful********************
+03/17/2024 02:06:53 PM -root -INFO -***************Starting Search Customer By Email **********
+03/17/2024 02:06:57 PM -root -INFO -************starting Search Customer By EmailID ***********
+03/17/2024 02:07:04 PM -root -INFO -***************TC_SearchCustomerByEmail_Finished *****************
+03/17/2024 02:08:08 PM -root -INFO -****************Test_003_AddCustomer********************
+03/17/2024 02:08:15 PM -root -INFO -****************Login successful********************
+03/17/2024 02:08:15 PM -root -INFO -***************Starting Search Customer By Email **********
+03/17/2024 02:08:18 PM -root -INFO -************starting Search Customer By EmailID ***********
+03/17/2024 02:08:26 PM -root -INFO -***************TC_SearchCustomerByEmail_Finished *****************
+03/17/2024 02:08:53 PM -root -INFO -****************Test_003_AddCustomer********************
+03/17/2024 02:08:59 PM -root -INFO -****************Login successful********************
+03/17/2024 02:08:59 PM -root -INFO -***************Starting Search Customer By Email **********
+03/17/2024 02:09:03 PM -root -INFO -************starting Search Customer By EmailID ***********
+03/17/2024 02:29:02 PM -root -INFO -****************Test_002_Search_Customer_by_name********************
+03/17/2024 02:29:08 PM -root -INFO -****************Login successful********************
+03/17/2024 02:29:08 PM -root -INFO -***************Starting Search Customer By Name **********
+03/17/2024 02:29:15 PM -root -INFO -************starting Search Customer By Name ***********
+03/17/2024 02:42:26 PM -root -INFO -****************Test_002_Search_Customer_by_name********************
+03/17/2024 02:42:34 PM -root -INFO -****************Login successful********************
+03/17/2024 02:42:34 PM -root -INFO -***************Starting Search Customer By Name **********
+03/17/2024 02:42:39 PM -root -INFO -************starting Search Customer By Name ***********
+03/17/2024 02:43:46 PM -root -INFO -***************TC_SearchCustomerByName_Finished *****************
+03/17/2024 02:45:02 PM -root -INFO -****************Test_002_Search_Customer_by_name********************
+03/17/2024 02:45:11 PM -root -INFO -****************Login successful********************
+03/17/2024 02:45:11 PM -root -INFO -***************Starting Search Customer By Name **********
+03/17/2024 02:45:15 PM -root -INFO -************starting Search Customer By Name ***********
+03/17/2024 02:45:21 PM -root -INFO -***************TC_SearchCustomerByName_Finished *****************
+03/17/2024 08:19:08 PM -root -INFO -**************** Test_002_DDT_Login*************
+03/17/2024 08:19:08 PM -root -INFO -***************** Verify DDT Login test *****************
+03/17/2024 08:19:19 PM -root -INFO -***************Test Case is passed********
+03/17/2024 08:19:28 PM -root -INFO -***************Test Case is Passed ********
+03/17/2024 08:19:35 PM -root -INFO -***************Test Case is Passed ********
+03/17/2024 08:19:41 PM -root -INFO -***************Test Case is Passed ********
+03/17/2024 08:19:41 PM -root -INFO -***********Login DDT is Passed **********
+03/17/2024 08:19:42 PM -root -INFO -**********End of Login DDT Test **************
+03/17/2024 08:19:42 PM -root -INFO -******** Completed Test_002_DDT_Login***********
+03/17/2024 08:20:14 PM -root -INFO -****************Test_003_AddCustomer********************
+03/17/2024 08:20:14 PM -root -INFO -****************Test_003_AddCustomer********************
+03/17/2024 08:20:14 PM -root -INFO -****************Test_003_AddCustomer********************
+03/17/2024 08:20:14 PM -root -INFO -****************Test_003_AddCustomer********************
+03/17/2024 08:20:21 PM -root -INFO -****************Login successful********************
+03/17/2024 08:20:21 PM -root -INFO -****************Login successful********************
+03/17/2024 08:20:21 PM -root -INFO -****************Login successful********************
+03/17/2024 08:20:21 PM -root -INFO -****************Login successful********************
+03/17/2024 08:20:21 PM -root -INFO -***************Starting Add Customer Test**************
+03/17/2024 08:20:21 PM -root -INFO -***************Starting Add Customer Test**************
+03/17/2024 08:20:21 PM -root -INFO -***************Starting Add Customer Test**************
+03/17/2024 08:20:21 PM -root -INFO -***************Starting Add Customer Test**************
+03/17/2024 08:20:27 PM -root -INFO -***************Providing customer info**************
+03/17/2024 08:20:27 PM -root -INFO -***************Providing customer info**************
+03/17/2024 08:20:27 PM -root -INFO -***************Providing customer info**************
+03/17/2024 08:20:27 PM -root -INFO -***************Providing customer info**************
+03/17/2024 08:20:32 PM -root -INFO -****************** saving customer info ***************************
+03/17/2024 08:20:32 PM -root -INFO -****************** saving customer info ***************************
+03/17/2024 08:20:32 PM -root -INFO -****************** saving customer info ***************************
+03/17/2024 08:20:32 PM -root -INFO -****************** saving customer info ***************************
+03/17/2024 08:20:32 PM -root -INFO -************* Add customer validation started ***************
+03/17/2024 08:20:32 PM -root -INFO -************* Add customer validation started ***************
+03/17/2024 08:20:32 PM -root -INFO -************* Add customer validation started ***************
+03/17/2024 08:20:32 PM -root -INFO -************* Add customer validation started ***************
+03/17/2024 08:20:34 PM -root -INFO -*********** Add customer Test *************
+03/17/2024 08:20:34 PM -root -INFO -*********** Add customer Test *************
+03/17/2024 08:20:34 PM -root -INFO -*********** Add customer Test *************
+03/17/2024 08:20:34 PM -root -INFO -*********** Add customer Test *************
+03/17/2024 08:20:34 PM -root -INFO -*************Ending Home Page Title Test ***************
+03/17/2024 08:20:34 PM -root -INFO -*************Ending Home Page Title Test ***************
+03/17/2024 08:20:34 PM -root -INFO -*************Ending Home Page Title Test ***************
+03/17/2024 08:20:34 PM -root -INFO -*************Ending Home Page Title Test ***************
+03/17/2024 08:20:37 PM -root -INFO -***************** Verify Login test *****************
+03/17/2024 08:20:37 PM -root -INFO -***************** Verify Login test *****************
+03/17/2024 08:20:37 PM -root -INFO -***************** Verify Login test *****************
+03/17/2024 08:20:37 PM -root -INFO -***************** Verify Login test *****************
+03/17/2024 08:20:46 PM -root -INFO -************ Login test is passed *****************
+03/17/2024 08:20:46 PM -root -INFO -************ Login test is passed *****************
+03/17/2024 08:20:46 PM -root -INFO -************ Login test is passed *****************
+03/17/2024 08:20:46 PM -root -INFO -************ Login test is passed *****************
+03/17/2024 09:07:20 PM -root -INFO -****************Test_003_AddCustomer********************
+03/17/2024 09:07:20 PM -root -INFO -****************Test_003_AddCustomer********************
+03/17/2024 09:07:20 PM -root -INFO -****************Test_003_AddCustomer********************
+03/17/2024 09:07:20 PM -root -INFO -****************Test_003_AddCustomer********************
+03/17/2024 09:07:28 PM -root -INFO -****************Login successful********************
+03/17/2024 09:07:28 PM -root -INFO -****************Login successful********************
+03/17/2024 09:07:28 PM -root -INFO -****************Login successful********************
+03/17/2024 09:07:28 PM -root -INFO -****************Login successful********************
+03/17/2024 09:07:28 PM -root -INFO -***************Starting Add Customer Test**************
+03/17/2024 09:07:28 PM -root -INFO -***************Starting Add Customer Test**************
+03/17/2024 09:07:28 PM -root -INFO -***************Starting Add Customer Test**************
+03/17/2024 09:07:28 PM -root -INFO -***************Starting Add Customer Test**************
+03/17/2024 09:07:34 PM -root -INFO -***************Providing customer info**************
+03/17/2024 09:07:34 PM -root -INFO -***************Providing customer info**************
+03/17/2024 09:07:34 PM -root -INFO -***************Providing customer info**************
+03/17/2024 09:07:34 PM -root -INFO -***************Providing customer info**************
+03/17/2024 09:07:42 PM -root -INFO -****************** saving customer info ***************************
+03/17/2024 09:07:42 PM -root -INFO -****************** saving customer info ***************************
+03/17/2024 09:07:42 PM -root -INFO -****************** saving customer info ***************************
+03/17/2024 09:07:42 PM -root -INFO -****************** saving customer info ***************************
+03/17/2024 09:07:42 PM -root -INFO -************* Add customer validation started ***************
+03/17/2024 09:07:42 PM -root -INFO -************* Add customer validation started ***************
+03/17/2024 09:07:42 PM -root -INFO -************* Add customer validation started ***************
+03/17/2024 09:07:42 PM -root -INFO -************* Add customer validation started ***************
+03/17/2024 09:07:45 PM -root -INFO -*********** Add customer Test *************
+03/17/2024 09:07:45 PM -root -INFO -*********** Add customer Test *************
+03/17/2024 09:07:45 PM -root -INFO -*********** Add customer Test *************
+03/17/2024 09:07:45 PM -root -INFO -*********** Add customer Test *************
+03/17/2024 09:07:45 PM -root -INFO -*************Ending Home Page Title Test ***************
+03/17/2024 09:07:45 PM -root -INFO -*************Ending Home Page Title Test ***************
+03/17/2024 09:07:45 PM -root -INFO -*************Ending Home Page Title Test ***************
+03/17/2024 09:07:45 PM -root -INFO -*************Ending Home Page Title Test ***************
+03/17/2024 09:07:49 PM -root -INFO -***************** Verify Login test *****************
+03/17/2024 09:07:49 PM -root -INFO -***************** Verify Login test *****************
+03/17/2024 09:07:49 PM -root -INFO -***************** Verify Login test *****************
+03/17/2024 09:07:49 PM -root -INFO -***************** Verify Login test *****************
+03/17/2024 09:08:01 PM -root -INFO -************ Login test is passed *****************
+03/17/2024 09:08:01 PM -root -INFO -************ Login test is passed *****************
+03/17/2024 09:08:01 PM -root -INFO -************ Login test is passed *****************
+03/17/2024 09:08:01 PM -root -INFO -************ Login test is passed *****************
+03/17/2024 09:08:50 PM -root -INFO -****************Test_003_AddCustomer********************
+03/17/2024 09:08:50 PM -root -INFO -****************Test_003_AddCustomer********************
+03/17/2024 09:08:50 PM -root -INFO -****************Test_003_AddCustomer********************
+03/17/2024 09:08:50 PM -root -INFO -****************Test_003_AddCustomer********************
+03/17/2024 09:08:57 PM -root -INFO -****************Login successful********************
+03/17/2024 09:08:57 PM -root -INFO -****************Login successful********************
+03/17/2024 09:08:57 PM -root -INFO -****************Login successful********************
+03/17/2024 09:08:57 PM -root -INFO -****************Login successful********************
+03/17/2024 09:08:57 PM -root -INFO -***************Starting Add Customer Test**************
+03/17/2024 09:08:57 PM -root -INFO -***************Starting Add Customer Test**************
+03/17/2024 09:08:57 PM -root -INFO -***************Starting Add Customer Test**************
+03/17/2024 09:08:57 PM -root -INFO -***************Starting Add Customer Test**************
+03/17/2024 09:09:15 PM -root -INFO -***************Providing customer info**************
+03/17/2024 09:09:15 PM -root -INFO -***************Providing customer info**************
+03/17/2024 09:09:15 PM -root -INFO -***************Providing customer info**************
+03/17/2024 09:09:15 PM -root -INFO -***************Providing customer info**************
+03/17/2024 09:09:21 PM -root -INFO -****************** saving customer info ***************************
+03/17/2024 09:09:21 PM -root -INFO -****************** saving customer info ***************************
+03/17/2024 09:09:21 PM -root -INFO -****************** saving customer info ***************************
+03/17/2024 09:09:21 PM -root -INFO -****************** saving customer info ***************************
+03/17/2024 09:09:21 PM -root -INFO -************* Add customer validation started ***************
+03/17/2024 09:09:21 PM -root -INFO -************* Add customer validation started ***************
+03/17/2024 09:09:21 PM -root -INFO -************* Add customer validation started ***************
+03/17/2024 09:09:21 PM -root -INFO -************* Add customer validation started ***************
+03/17/2024 09:09:23 PM -root -INFO -*********** Add customer Test *************
+03/17/2024 09:09:23 PM -root -INFO -*********** Add customer Test *************
+03/17/2024 09:09:23 PM -root -INFO -*********** Add customer Test *************
+03/17/2024 09:09:23 PM -root -INFO -*********** Add customer Test *************
+03/17/2024 09:09:24 PM -root -INFO -*************Ending Home Page Title Test ***************
+03/17/2024 09:09:24 PM -root -INFO -*************Ending Home Page Title Test ***************
+03/17/2024 09:09:24 PM -root -INFO -*************Ending Home Page Title Test ***************
+03/17/2024 09:09:24 PM -root -INFO -*************Ending Home Page Title Test ***************
+03/17/2024 09:09:27 PM -root -INFO -***************** Verify Login test *****************
+03/17/2024 09:09:27 PM -root -INFO -***************** Verify Login test *****************
+03/17/2024 09:09:27 PM -root -INFO -***************** Verify Login test *****************
+03/17/2024 09:09:27 PM -root -INFO -***************** Verify Login test *****************
+03/17/2024 09:09:38 PM -root -INFO -************ Login test is passed *****************
+03/17/2024 09:09:38 PM -root -INFO -************ Login test is passed *****************
+03/17/2024 09:09:38 PM -root -INFO -************ Login test is passed *****************
+03/17/2024 09:09:38 PM -root -INFO -************ Login test is passed *****************
+03/23/2024 03:40:52 PM -root -INFO -****************Test_003_AddCustomer********************
+03/23/2024 03:40:52 PM -root -INFO -****************Test_003_AddCustomer********************
+03/23/2024 03:40:52 PM -root -INFO -****************Test_003_AddCustomer********************
+03/23/2024 03:40:52 PM -root -INFO -****************Test_003_AddCustomer********************
+03/23/2024 03:41:00 PM -root -INFO -****************Login successful********************
+03/23/2024 03:41:00 PM -root -INFO -****************Login successful********************
+03/23/2024 03:41:00 PM -root -INFO -****************Login successful********************
+03/23/2024 03:41:00 PM -root -INFO -****************Login successful********************
+03/23/2024 03:41:00 PM -root -INFO -***************Starting Add Customer Test**************
+03/23/2024 03:41:00 PM -root -INFO -***************Starting Add Customer Test**************
+03/23/2024 03:41:00 PM -root -INFO -***************Starting Add Customer Test**************
+03/23/2024 03:41:00 PM -root -INFO -***************Starting Add Customer Test**************
+03/23/2024 03:41:06 PM -root -INFO -***************Providing customer info**************
+03/23/2024 03:41:06 PM -root -INFO -***************Providing customer info**************
+03/23/2024 03:41:06 PM -root -INFO -***************Providing customer info**************
+03/23/2024 03:41:06 PM -root -INFO -***************Providing customer info**************
+03/23/2024 03:41:12 PM -root -INFO -****************** saving customer info ***************************
+03/23/2024 03:41:12 PM -root -INFO -****************** saving customer info ***************************
+03/23/2024 03:41:12 PM -root -INFO -****************** saving customer info ***************************
+03/23/2024 03:41:12 PM -root -INFO -****************** saving customer info ***************************
+03/23/2024 03:41:12 PM -root -INFO -************* Add customer validation started ***************
+03/23/2024 03:41:12 PM -root -INFO -************* Add customer validation started ***************
+03/23/2024 03:41:12 PM -root -INFO -************* Add customer validation started ***************
+03/23/2024 03:41:12 PM -root -INFO -************* Add customer validation started ***************
+03/23/2024 03:41:13 PM -root -INFO -*********** Add customer Test *************
+03/23/2024 03:41:13 PM -root -INFO -*********** Add customer Test *************
+03/23/2024 03:41:13 PM -root -INFO -*********** Add customer Test *************
+03/23/2024 03:41:13 PM -root -INFO -*********** Add customer Test *************
+03/23/2024 03:41:13 PM -root -INFO -*************Ending Home Page Title Test ***************
+03/23/2024 03:41:13 PM -root -INFO -*************Ending Home Page Title Test ***************
+03/23/2024 03:41:13 PM -root -INFO -*************Ending Home Page Title Test ***************
+03/23/2024 03:41:13 PM -root -INFO -*************Ending Home Page Title Test ***************
+03/23/2024 03:41:17 PM -root -INFO -***************** Verify Login test *****************
+03/23/2024 03:41:17 PM -root -INFO -***************** Verify Login test *****************
+03/23/2024 03:41:17 PM -root -INFO -***************** Verify Login test *****************
+03/23/2024 03:41:17 PM -root -INFO -***************** Verify Login test *****************
+03/23/2024 03:41:26 PM -root -INFO -************ Login test is passed *****************
+03/23/2024 03:41:26 PM -root -INFO -************ Login test is passed *****************
+03/23/2024 03:41:26 PM -root -INFO -************ Login test is passed *****************
+03/23/2024 03:41:26 PM -root -INFO -************ Login test is passed *****************
+03/23/2024 03:50:06 PM -root -INFO -****************Test_003_AddCustomer********************
+03/23/2024 03:50:06 PM -root -INFO -****************Test_003_AddCustomer********************
+03/23/2024 03:50:06 PM -root -INFO -****************Test_003_AddCustomer********************
+03/23/2024 03:50:06 PM -root -INFO -****************Test_003_AddCustomer********************
+03/23/2024 03:50:13 PM -root -INFO -****************Login successful********************
+03/23/2024 03:50:13 PM -root -INFO -****************Login successful********************
+03/23/2024 03:50:13 PM -root -INFO -****************Login successful********************
+03/23/2024 03:50:13 PM -root -INFO -****************Login successful********************
+03/23/2024 03:50:13 PM -root -INFO -***************Starting Add Customer Test**************
+03/23/2024 03:50:13 PM -root -INFO -***************Starting Add Customer Test**************
+03/23/2024 03:50:13 PM -root -INFO -***************Starting Add Customer Test**************
+03/23/2024 03:50:13 PM -root -INFO -***************Starting Add Customer Test**************
+03/23/2024 03:50:20 PM -root -INFO -***************Providing customer info**************
+03/23/2024 03:50:20 PM -root -INFO -***************Providing customer info**************
+03/23/2024 03:50:20 PM -root -INFO -***************Providing customer info**************
+03/23/2024 03:50:20 PM -root -INFO -***************Providing customer info**************
+03/23/2024 03:50:25 PM -root -INFO -****************** saving customer info ***************************
+03/23/2024 03:50:25 PM -root -INFO -****************** saving customer info ***************************
+03/23/2024 03:50:25 PM -root -INFO -****************** saving customer info ***************************
+03/23/2024 03:50:25 PM -root -INFO -****************** saving customer info ***************************
+03/23/2024 03:50:25 PM -root -INFO -************* Add customer validation started ***************
+03/23/2024 03:50:25 PM -root -INFO -************* Add customer validation started ***************
+03/23/2024 03:50:25 PM -root -INFO -************* Add customer validation started ***************
+03/23/2024 03:50:25 PM -root -INFO -************* Add customer validation started ***************
+03/23/2024 03:50:27 PM -root -INFO -*********** Add customer Test *************
+03/23/2024 03:50:27 PM -root -INFO -*********** Add customer Test *************
+03/23/2024 03:50:27 PM -root -INFO -*********** Add customer Test *************
+03/23/2024 03:50:27 PM -root -INFO -*********** Add customer Test *************
+03/23/2024 03:50:27 PM -root -INFO -*************Ending Home Page Title Test ***************
+03/23/2024 03:50:27 PM -root -INFO -*************Ending Home Page Title Test ***************
+03/23/2024 03:50:27 PM -root -INFO -*************Ending Home Page Title Test ***************
+03/23/2024 03:50:27 PM -root -INFO -*************Ending Home Page Title Test ***************
+03/23/2024 03:50:31 PM -root -INFO -***************** Verify Login test *****************
+03/23/2024 03:50:31 PM -root -INFO -***************** Verify Login test *****************
+03/23/2024 03:50:31 PM -root -INFO -***************** Verify Login test *****************
+03/23/2024 03:50:31 PM -root -INFO -***************** Verify Login test *****************
+03/23/2024 03:50:41 PM -root -INFO -************ Login test is passed *****************
+03/23/2024 03:50:41 PM -root -INFO -************ Login test is passed *****************
+03/23/2024 03:50:41 PM -root -INFO -************ Login test is passed *****************
+03/23/2024 03:50:41 PM -root -INFO -************ Login test is passed *****************
+03/23/2024 03:51:49 PM -root -INFO -****************Test_003_AddCustomer********************
+03/23/2024 03:51:49 PM -root -INFO -****************Test_003_AddCustomer********************
+03/23/2024 03:51:49 PM -root -INFO -****************Test_003_AddCustomer********************
+03/23/2024 03:51:49 PM -root -INFO -****************Test_003_AddCustomer********************
+03/23/2024 03:51:53 PM -root -INFO -****************Login successful********************
+03/23/2024 03:51:53 PM -root -INFO -****************Login successful********************
+03/23/2024 03:51:53 PM -root -INFO -****************Login successful********************
+03/23/2024 03:51:53 PM -root -INFO -****************Login successful********************
+03/23/2024 03:51:53 PM -root -INFO -***************Starting Add Customer Test**************
+03/23/2024 03:51:53 PM -root -INFO -***************Starting Add Customer Test**************
+03/23/2024 03:51:53 PM -root -INFO -***************Starting Add Customer Test**************
+03/23/2024 03:51:53 PM -root -INFO -***************Starting Add Customer Test**************
+03/23/2024 03:51:59 PM -root -INFO -***************Providing customer info**************
+03/23/2024 03:51:59 PM -root -INFO -***************Providing customer info**************
+03/23/2024 03:51:59 PM -root -INFO -***************Providing customer info**************
+03/23/2024 03:51:59 PM -root -INFO -***************Providing customer info**************
+03/23/2024 03:52:05 PM -root -INFO -****************** saving customer info ***************************
+03/23/2024 03:52:05 PM -root -INFO -****************** saving customer info ***************************
+03/23/2024 03:52:05 PM -root -INFO -****************** saving customer info ***************************
+03/23/2024 03:52:05 PM -root -INFO -****************** saving customer info ***************************
+03/23/2024 03:52:05 PM -root -INFO -************* Add customer validation started ***************
+03/23/2024 03:52:05 PM -root -INFO -************* Add customer validation started ***************
+03/23/2024 03:52:05 PM -root -INFO -************* Add customer validation started ***************
+03/23/2024 03:52:05 PM -root -INFO -************* Add customer validation started ***************
+03/23/2024 03:52:06 PM -root -INFO -*********** Add customer Test *************
+03/23/2024 03:52:06 PM -root -INFO -*********** Add customer Test *************
+03/23/2024 03:52:06 PM -root -INFO -*********** Add customer Test *************
+03/23/2024 03:52:06 PM -root -INFO -*********** Add customer Test *************
+03/23/2024 03:52:07 PM -root -INFO -*************Ending Home Page Title Test ***************
+03/23/2024 03:52:07 PM -root -INFO -*************Ending Home Page Title Test ***************
+03/23/2024 03:52:07 PM -root -INFO -*************Ending Home Page Title Test ***************
+03/23/2024 03:52:07 PM -root -INFO -*************Ending Home Page Title Test ***************
+03/23/2024 03:52:10 PM -root -INFO -***************** Verify Login test *****************
+03/23/2024 03:52:10 PM -root -INFO -***************** Verify Login test *****************
+03/23/2024 03:52:10 PM -root -INFO -***************** Verify Login test *****************
+03/23/2024 03:52:10 PM -root -INFO -***************** Verify Login test *****************
+03/23/2024 03:52:19 PM -root -INFO -************ Login test is passed *****************
+03/23/2024 03:52:19 PM -root -INFO -************ Login test is passed *****************
+03/23/2024 03:52:19 PM -root -INFO -************ Login test is passed *****************
+03/23/2024 03:52:19 PM -root -INFO -************ Login test is passed *****************
+03/23/2024 03:52:39 PM -root -INFO -****************Test_003_AddCustomer********************
+03/23/2024 03:52:39 PM -root -INFO -****************Test_003_AddCustomer********************
+03/23/2024 03:52:39 PM -root -INFO -****************Test_003_AddCustomer********************
+03/23/2024 03:52:39 PM -root -INFO -****************Test_003_AddCustomer********************
+03/23/2024 03:52:44 PM -root -INFO -****************Login successful********************
+03/23/2024 03:52:44 PM -root -INFO -****************Login successful********************
+03/23/2024 03:52:44 PM -root -INFO -****************Login successful********************
+03/23/2024 03:52:44 PM -root -INFO -****************Login successful********************
+03/23/2024 03:52:44 PM -root -INFO -***************Starting Add Customer Test**************
+03/23/2024 03:52:44 PM -root -INFO -***************Starting Add Customer Test**************
+03/23/2024 03:52:44 PM -root -INFO -***************Starting Add Customer Test**************
+03/23/2024 03:52:44 PM -root -INFO -***************Starting Add Customer Test**************
+03/23/2024 03:52:58 PM -root -INFO -***************** Verify Login test *****************
+03/23/2024 03:52:58 PM -root -INFO -***************** Verify Login test *****************
+03/23/2024 03:52:58 PM -root -INFO -***************** Verify Login test *****************
+03/23/2024 03:52:58 PM -root -INFO -***************** Verify Login test *****************
+03/23/2024 03:54:39 PM -root -INFO -****************Test_003_AddCustomer********************
+03/23/2024 03:54:39 PM -root -INFO -****************Test_003_AddCustomer********************
+03/23/2024 03:54:39 PM -root -INFO -****************Test_003_AddCustomer********************
+03/23/2024 03:54:39 PM -root -INFO -****************Test_003_AddCustomer********************
+03/23/2024 03:54:44 PM -root -INFO -****************Login successful********************
+03/23/2024 03:54:44 PM -root -INFO -****************Login successful********************
+03/23/2024 03:54:44 PM -root -INFO -****************Login successful********************
+03/23/2024 03:54:44 PM -root -INFO -****************Login successful********************
+03/23/2024 03:54:44 PM -root -INFO -***************Starting Add Customer Test**************
+03/23/2024 03:54:44 PM -root -INFO -***************Starting Add Customer Test**************
+03/23/2024 03:54:44 PM -root -INFO -***************Starting Add Customer Test**************
+03/23/2024 03:54:44 PM -root -INFO -***************Starting Add Customer Test**************
+03/23/2024 03:54:50 PM -root -INFO -***************Providing customer info**************
+03/23/2024 03:54:50 PM -root -INFO -***************Providing customer info**************
+03/23/2024 03:54:50 PM -root -INFO -***************Providing customer info**************
+03/23/2024 03:54:50 PM -root -INFO -***************Providing customer info**************
+03/23/2024 03:54:55 PM -root -INFO -****************** saving customer info ***************************
+03/23/2024 03:54:55 PM -root -INFO -****************** saving customer info ***************************
+03/23/2024 03:54:55 PM -root -INFO -****************** saving customer info ***************************
+03/23/2024 03:54:55 PM -root -INFO -****************** saving customer info ***************************
+03/23/2024 03:54:55 PM -root -INFO -************* Add customer validation started ***************
+03/23/2024 03:54:55 PM -root -INFO -************* Add customer validation started ***************
+03/23/2024 03:54:55 PM -root -INFO -************* Add customer validation started ***************
+03/23/2024 03:54:55 PM -root -INFO -************* Add customer validation started ***************
+03/23/2024 03:54:57 PM -root -INFO -*********** Add customer Test *************
+03/23/2024 03:54:57 PM -root -INFO -*********** Add customer Test *************
+03/23/2024 03:54:57 PM -root -INFO -*********** Add customer Test *************
+03/23/2024 03:54:57 PM -root -INFO -*********** Add customer Test *************
+03/23/2024 03:54:57 PM -root -INFO -*************Ending Home Page Title Test ***************
+03/23/2024 03:54:57 PM -root -INFO -*************Ending Home Page Title Test ***************
+03/23/2024 03:54:57 PM -root -INFO -*************Ending Home Page Title Test ***************
+03/23/2024 03:54:57 PM -root -INFO -*************Ending Home Page Title Test ***************
+03/23/2024 03:55:00 PM -root -INFO -***************** Verify Login test *****************
+03/23/2024 03:55:00 PM -root -INFO -***************** Verify Login test *****************
+03/23/2024 03:55:00 PM -root -INFO -***************** Verify Login test *****************
+03/23/2024 03:55:00 PM -root -INFO -***************** Verify Login test *****************
+03/23/2024 03:55:09 PM -root -INFO -************ Login test is passed *****************
+03/23/2024 03:55:09 PM -root -INFO -************ Login test is passed *****************
+03/23/2024 03:55:09 PM -root -INFO -************ Login test is passed *****************
+03/23/2024 03:55:09 PM -root -INFO -************ Login test is passed *****************
+03/23/2024 03:55:27 PM -root -INFO -****************Test_003_AddCustomer********************
+03/23/2024 03:55:27 PM -root -INFO -****************Test_003_AddCustomer********************
+03/23/2024 03:55:27 PM -root -INFO -****************Test_003_AddCustomer********************
+03/23/2024 03:55:27 PM -root -INFO -****************Test_003_AddCustomer********************
+03/23/2024 03:55:34 PM -root -INFO -****************Login successful********************
+03/23/2024 03:55:34 PM -root -INFO -****************Login successful********************
+03/23/2024 03:55:34 PM -root -INFO -****************Login successful********************
+03/23/2024 03:55:34 PM -root -INFO -****************Login successful********************
+03/23/2024 03:55:34 PM -root -INFO -***************Starting Add Customer Test**************
+03/23/2024 03:55:34 PM -root -INFO -***************Starting Add Customer Test**************
+03/23/2024 03:55:34 PM -root -INFO -***************Starting Add Customer Test**************
+03/23/2024 03:55:34 PM -root -INFO -***************Starting Add Customer Test**************
+03/23/2024 03:55:47 PM -root -INFO -***************** Verify Login test *****************
+03/23/2024 03:55:47 PM -root -INFO -***************** Verify Login test *****************
+03/23/2024 03:55:47 PM -root -INFO -***************** Verify Login test *****************
+03/23/2024 03:55:47 PM -root -INFO -***************** Verify Login test *****************
+03/23/2024 04:02:23 PM -root -INFO -****************Test_003_AddCustomer********************
+03/23/2024 04:02:23 PM -root -INFO -****************Test_003_AddCustomer********************
+03/23/2024 04:02:23 PM -root -INFO -****************Test_003_AddCustomer********************
+03/23/2024 04:02:23 PM -root -INFO -****************Test_003_AddCustomer********************
+03/23/2024 04:02:28 PM -root -INFO -****************Login successful********************
+03/23/2024 04:02:28 PM -root -INFO -****************Login successful********************
+03/23/2024 04:02:28 PM -root -INFO -****************Login successful********************
+03/23/2024 04:02:28 PM -root -INFO -****************Login successful********************
+03/23/2024 04:02:28 PM -root -INFO -***************Starting Add Customer Test**************
+03/23/2024 04:02:28 PM -root -INFO -***************Starting Add Customer Test**************
+03/23/2024 04:02:28 PM -root -INFO -***************Starting Add Customer Test**************
+03/23/2024 04:02:28 PM -root -INFO -***************Starting Add Customer Test**************
+03/23/2024 04:02:34 PM -root -INFO -***************Providing customer info**************
+03/23/2024 04:02:34 PM -root -INFO -***************Providing customer info**************
+03/23/2024 04:02:34 PM -root -INFO -***************Providing customer info**************
+03/23/2024 04:02:34 PM -root -INFO -***************Providing customer info**************
+03/23/2024 04:02:39 PM -root -INFO -****************** saving customer info ***************************
+03/23/2024 04:02:39 PM -root -INFO -****************** saving customer info ***************************
+03/23/2024 04:02:39 PM -root -INFO -****************** saving customer info ***************************
+03/23/2024 04:02:39 PM -root -INFO -****************** saving customer info ***************************
+03/23/2024 04:02:39 PM -root -INFO -************* Add customer validation started ***************
+03/23/2024 04:02:39 PM -root -INFO -************* Add customer validation started ***************
+03/23/2024 04:02:39 PM -root -INFO -************* Add customer validation started ***************
+03/23/2024 04:02:39 PM -root -INFO -************* Add customer validation started ***************
+03/23/2024 04:02:41 PM -root -INFO -*********** Add customer Test *************
+03/23/2024 04:02:41 PM -root -INFO -*********** Add customer Test *************
+03/23/2024 04:02:41 PM -root -INFO -*********** Add customer Test *************
+03/23/2024 04:02:41 PM -root -INFO -*********** Add customer Test *************
+03/23/2024 04:02:41 PM -root -INFO -*************Ending Home Page Title Test ***************
+03/23/2024 04:02:41 PM -root -INFO -*************Ending Home Page Title Test ***************
+03/23/2024 04:02:41 PM -root -INFO -*************Ending Home Page Title Test ***************
+03/23/2024 04:02:41 PM -root -INFO -*************Ending Home Page Title Test ***************
+03/23/2024 04:02:44 PM -root -INFO -***************** Verify Login test *****************
+03/23/2024 04:02:44 PM -root -INFO -***************** Verify Login test *****************
+03/23/2024 04:02:44 PM -root -INFO -***************** Verify Login test *****************
+03/23/2024 04:02:44 PM -root -INFO -***************** Verify Login test *****************
+03/23/2024 04:02:54 PM -root -INFO -************ Login test is passed *****************
+03/23/2024 04:02:54 PM -root -INFO -************ Login test is passed *****************
+03/23/2024 04:02:54 PM -root -INFO -************ Login test is passed *****************
+03/23/2024 04:02:54 PM -root -INFO -************ Login test is passed *****************
+03/23/2024 04:03:15 PM -root -INFO -****************Test_003_AddCustomer********************
+03/23/2024 04:03:15 PM -root -INFO -****************Test_003_AddCustomer********************
+03/23/2024 04:03:15 PM -root -INFO -****************Test_003_AddCustomer********************
+03/23/2024 04:03:15 PM -root -INFO -****************Test_003_AddCustomer********************
+03/23/2024 04:03:21 PM -root -INFO -****************Login successful********************
+03/23/2024 04:03:21 PM -root -INFO -****************Login successful********************
+03/23/2024 04:03:21 PM -root -INFO -****************Login successful********************
+03/23/2024 04:03:21 PM -root -INFO -****************Login successful********************
+03/23/2024 04:03:21 PM -root -INFO -***************Starting Add Customer Test**************
+03/23/2024 04:03:21 PM -root -INFO -***************Starting Add Customer Test**************
+03/23/2024 04:03:21 PM -root -INFO -***************Starting Add Customer Test**************
+03/23/2024 04:03:21 PM -root -INFO -***************Starting Add Customer Test**************
+03/23/2024 04:03:34 PM -root -INFO -***************** Verify Login test *****************
+03/23/2024 04:03:34 PM -root -INFO -***************** Verify Login test *****************
+03/23/2024 04:03:34 PM -root -INFO -***************** Verify Login test *****************
+03/23/2024 04:03:34 PM -root -INFO -***************** Verify Login test *****************
+03/30/2024 03:21:03 PM -root -INFO -****************Test_003_AddCustomer********************
+03/30/2024 03:21:10 PM -root -INFO -****************Login successful********************
+03/30/2024 03:21:10 PM -root -INFO -***************Starting Add Customer Test**************
+03/30/2024 03:21:15 PM -root -INFO -***************Providing customer info**************
+03/30/2024 03:21:21 PM -root -INFO -****************** saving customer info ***************************
+03/30/2024 03:21:21 PM -root -INFO -************* Add customer validation started ***************
+03/30/2024 03:21:22 PM -root -INFO -*********** Add customer Test *************
+03/30/2024 03:21:23 PM -root -INFO -*************Ending Home Page Title Test ***************
